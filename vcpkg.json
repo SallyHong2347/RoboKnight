@@ -1,0 +1,11 @@
+{
+  "name": "robo-knight",
+  "version": "1.0.0",
+  "dependencies": [
+    {
+      "name": "opencv",
+      "version>=": "4.8.0#1"
+    },
+    "spdlog"
+  ]
+}
