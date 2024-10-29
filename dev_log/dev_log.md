@@ -4,3 +4,5 @@ Done:
 Next:
 - screen capture
 - action cool-down time？ (后摇)
+- jump magnitude
+- attack with directon (w/a/s/d + attack)
